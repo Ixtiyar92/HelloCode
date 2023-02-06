@@ -1,0 +1,15 @@
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\bin\Debug\net7.0\Urok001_HelloConsole.exe
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\bin\Debug\net7.0\Urok001_HelloConsole.deps.json
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\bin\Debug\net7.0\Urok001_HelloConsole.runtimeconfig.json
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\bin\Debug\net7.0\Urok001_HelloConsole.dll
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\bin\Debug\net7.0\Urok001_HelloConsole.pdb
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\Urok001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\Urok001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\Urok001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\Urok001_HelloConsole.AssemblyInfo.cs
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\Urok001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\Urok001_HelloConsole.dll
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\refint\Urok001_HelloConsole.dll
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\Urok001_HelloConsole.pdb
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\Urok001_HelloConsole.genruntimeconfig.cache
+C:\Users\OsipovaMM\Desktop\GeekBrains\Tema_3\Urok001_HelloConsole\obj\Debug\net7.0\ref\Urok001_HelloConsole.dll
