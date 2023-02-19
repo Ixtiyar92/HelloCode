@@ -1,0 +1,15 @@
+C:\GeekBrains\Tema_3\Lekciya002\5\bin\Debug\net7.0\5.exe
+C:\GeekBrains\Tema_3\Lekciya002\5\bin\Debug\net7.0\5.deps.json
+C:\GeekBrains\Tema_3\Lekciya002\5\bin\Debug\net7.0\5.runtimeconfig.json
+C:\GeekBrains\Tema_3\Lekciya002\5\bin\Debug\net7.0\5.dll
+C:\GeekBrains\Tema_3\Lekciya002\5\bin\Debug\net7.0\5.pdb
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\5.csproj.AssemblyReference.cache
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\5.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\5.AssemblyInfoInputs.cache
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\5.AssemblyInfo.cs
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\5.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\5.dll
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\refint\5.dll
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\5.pdb
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\5.genruntimeconfig.cache
+C:\GeekBrains\Tema_3\Lekciya002\5\obj\Debug\net7.0\ref\5.dll
