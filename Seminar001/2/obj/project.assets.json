@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\SmartDevice\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\GeekBrains\\Tema_3\\Seminar001\\2\\2.csproj",
+      "projectUniqueName": "C:\\GeekBrains\\Tema_3\\Seminar001\\2\\2.csproj",
       "projectName": "2",
-      "projectPath": "C:\\Users\\PC\\Desktop\\GeekBrains\\Tema_3\\Seminar001\\2\\2.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\GeekBrains\\Tema_3\\Seminar001\\2\\obj\\",
+      "projectPath": "C:\\GeekBrains\\Tema_3\\Seminar001\\2\\2.csproj",
+      "packagesPath": "C:\\Users\\SmartDevice\\.nuget\\packages\\",
+      "outputPath": "C:\\GeekBrains\\Tema_3\\Seminar001\\2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\SmartDevice\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
