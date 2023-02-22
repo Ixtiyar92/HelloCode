@@ -1,0 +1,15 @@
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\dop_zadacha.csproj.AssemblyReference.cache
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\dop_zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\dop_zadacha.AssemblyInfoInputs.cache
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\dop_zadacha.AssemblyInfo.cs
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\dop_zadacha.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\bin\Debug\net7.0\dop_zadacha.exe
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\bin\Debug\net7.0\dop_zadacha.deps.json
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\bin\Debug\net7.0\dop_zadacha.runtimeconfig.json
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\bin\Debug\net7.0\dop_zadacha.dll
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\bin\Debug\net7.0\dop_zadacha.pdb
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\dop_zadacha.dll
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\refint\dop_zadacha.dll
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\dop_zadacha.pdb
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\dop_zadacha.genruntimeconfig.cache
+C:\GeekBrains\Tema_3\Seminar002\dop_zadacha\obj\Debug\net7.0\ref\dop_zadacha.dll
