@@ -1,0 +1,15 @@
+C:\GeekBrains\Tema_3\Lekciya003\Method\bin\Debug\net7.0\Method.exe
+C:\GeekBrains\Tema_3\Lekciya003\Method\bin\Debug\net7.0\Method.deps.json
+C:\GeekBrains\Tema_3\Lekciya003\Method\bin\Debug\net7.0\Method.runtimeconfig.json
+C:\GeekBrains\Tema_3\Lekciya003\Method\bin\Debug\net7.0\Method.dll
+C:\GeekBrains\Tema_3\Lekciya003\Method\bin\Debug\net7.0\Method.pdb
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\Method.csproj.AssemblyReference.cache
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\Method.AssemblyInfoInputs.cache
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\Method.AssemblyInfo.cs
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\Method.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\Method.dll
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\refint\Method.dll
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\Method.pdb
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\Method.genruntimeconfig.cache
+C:\GeekBrains\Tema_3\Lekciya003\Method\obj\Debug\net7.0\ref\Method.dll
