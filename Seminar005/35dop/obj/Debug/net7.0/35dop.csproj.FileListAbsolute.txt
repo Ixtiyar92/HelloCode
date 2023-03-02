@@ -1,0 +1,15 @@
+C:\GeekBrains\Tema_3\Seminar005\35dop\bin\Debug\net7.0\35dop.exe
+C:\GeekBrains\Tema_3\Seminar005\35dop\bin\Debug\net7.0\35dop.deps.json
+C:\GeekBrains\Tema_3\Seminar005\35dop\bin\Debug\net7.0\35dop.runtimeconfig.json
+C:\GeekBrains\Tema_3\Seminar005\35dop\bin\Debug\net7.0\35dop.dll
+C:\GeekBrains\Tema_3\Seminar005\35dop\bin\Debug\net7.0\35dop.pdb
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\35dop.csproj.AssemblyReference.cache
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\35dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\35dop.AssemblyInfoInputs.cache
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\35dop.AssemblyInfo.cs
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\35dop.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\35dop.dll
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\refint\35dop.dll
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\35dop.pdb
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\35dop.genruntimeconfig.cache
+C:\GeekBrains\Tema_3\Seminar005\35dop\obj\Debug\net7.0\ref\35dop.dll
