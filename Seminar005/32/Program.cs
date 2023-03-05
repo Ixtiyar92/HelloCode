@@ -3,9 +3,9 @@
 // [-4, -8, 8, 2] -> [4, 8, -8, -2]
 
 Console.Clear();
-int[] startArray = GetArray(6, -10, 10);
-Console.WriteLine(String.Join(" ", startArray));
-Console.WriteLine(String.Join(" ", InversArray(startArray)));
+int[] startArray = GetArray(6, -10, 10); // создали массив путём обращения к функции GetArray (размер массива 6 элементов, от -10 до 10)
+Console.WriteLine(String.Join(" ", startArray)); // вывели изначальный массив
+Console.WriteLine(String.Join(" ", InversArray(startArray))); // вывели обратный массив с помощью функции InversArray
 
 int[] GetArray(int size, int minValue, int maxValue)
 {
