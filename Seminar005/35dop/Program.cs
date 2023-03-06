@@ -28,4 +28,4 @@ int GetCountElements(int[] array, int leftRange, int rigthRange)
         if (item >= leftRange && item <= rigthRange) count++;
     }
     return count;
-}
+} 
