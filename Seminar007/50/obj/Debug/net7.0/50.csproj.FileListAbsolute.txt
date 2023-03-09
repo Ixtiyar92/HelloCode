@@ -1,0 +1,15 @@
+C:\GeekBrains\Tema_3\Seminar007\50\bin\Debug\net7.0\50.exe
+C:\GeekBrains\Tema_3\Seminar007\50\bin\Debug\net7.0\50.deps.json
+C:\GeekBrains\Tema_3\Seminar007\50\bin\Debug\net7.0\50.runtimeconfig.json
+C:\GeekBrains\Tema_3\Seminar007\50\bin\Debug\net7.0\50.dll
+C:\GeekBrains\Tema_3\Seminar007\50\bin\Debug\net7.0\50.pdb
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\50.csproj.AssemblyReference.cache
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\50.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\50.AssemblyInfoInputs.cache
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\50.AssemblyInfo.cs
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\50.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\50.dll
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\refint\50.dll
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\50.pdb
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\50.genruntimeconfig.cache
+C:\GeekBrains\Tema_3\Seminar007\50\obj\Debug\net7.0\ref\50.dll
